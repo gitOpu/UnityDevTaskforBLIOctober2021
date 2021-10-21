@@ -1,0 +1,29 @@
+{
+  "Items": [
+    {
+      "name": "Nasum",
+      "age": 27,
+      "type": 0
+    },
+    {
+      "name": "Saumya",
+      "age": 27,
+      "type": 0
+    },
+    {
+      "name": "Shakib",
+      "age": 34,
+      "type": 0
+    },
+    {
+      "name": "Taskin",
+      "age": 26,
+      "type": 1
+    },
+    {
+      "name": "Mustafizur",
+      "age": 27,
+      "type": 1
+    }
+  ]
+}
